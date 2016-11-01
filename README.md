@@ -5,4 +5,5 @@ Isi dari ini adalah gue
 * Tugas Kampus
 * Tugas Teman
 
+slaw
 # Sekian dan Bye
